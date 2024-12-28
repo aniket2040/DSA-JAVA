@@ -14,8 +14,9 @@ public class SumUntilX {
                 sum += num;
             } catch (NumberFormatException e) {
                 System.out.println("Invalid input. Please enter a valid number or 'x' to stop.");
-                // TODO: handle exception
+                 
             }
+            sc.close();
         }
         
         System.out.println("The sum of all entered numbers is: " + sum);

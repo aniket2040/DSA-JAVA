@@ -13,6 +13,8 @@ public class largest {
         }else{
             System.out.println("largest number is " + num);
         }
+        sc.close();
 
     
-}}
+    }
+}

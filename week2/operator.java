@@ -15,6 +15,7 @@ public class operator {
         System.out.println("Multiplication of the given number :"+product);
         System.out.println("Division of the given number :"+division);
         System.out.println("Subtaraction of the given number :"+difference);
+        sc.close();
 
     }
 }

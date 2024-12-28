@@ -10,5 +10,6 @@ public static void main(String[] args) {
     }else{
         System.out.println("Entered year is not a leapyear");
     }
+    in.close();
 }
 }
