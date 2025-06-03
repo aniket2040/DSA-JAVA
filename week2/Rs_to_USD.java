@@ -7,6 +7,7 @@ public class Rs_to_USD {
         double rupees = sc.nextDouble();
         double usd = rupees * 0.014;
         System.out.println("The amount in USD is " + usd);
+        sc.close();
     }    
     
 }

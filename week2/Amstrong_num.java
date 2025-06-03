@@ -14,6 +14,7 @@ public class Amstrong_num{
                 
             }
         }
+        sc.close();
     
     }
 
